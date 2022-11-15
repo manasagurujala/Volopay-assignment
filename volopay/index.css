@@ -1,0 +1,168 @@
+.heading {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.para {
+    color: #b9bdbc;
+    font-size: 14px;
+   
+    
+}
+.limit{
+    font-size:15px;
+    color:#929b94;
+}
+.spend-avail{
+    font-weight: "Roboto";
+    font-weight: 600;
+}
+.heading-para{
+    padding-left: 5px;
+}
+
+.CardTypeCon {
+    border: #b9bdbc 1px solid;
+    height: 15px;
+    width: 85px;
+    border-radius: 2px;
+    margin: 2px
+}
+
+.CardType {
+    width: 100px;
+  padding-left:5px;
+    font-size: 10px;
+    color:#929b94;
+    font-weight: 800;
+    justify-content: center;
+}
+
+.progess {
+    background-color: green;
+    margin-bottom: 10px;
+}
+
+.img-block{
+    height: 55px;
+    width: 15px;
+}
+.Container-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.company-frist {
+    background-color: #A5D6A7;
+    height: 30px;
+    width: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 8px;
+    padding-top: 3px;
+    border-radius: 25px;
+    justify-content: center;
+    margin-right: 10px;
+    font-size: 15px;
+
+}
+
+.heading-cpn {
+    display: flex;
+    flex-direction: row;
+}
+
+.Container-big {
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 20px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    width: 400px;
+}
+
+.img {
+    justify-content: center;
+    height: 50px;
+
+    align-items: center;
+}
+
+.con-end {
+    display: flex;
+    margin-left: 550px;
+    padding: 150px;
+    justify-content: flex-end;
+}
+
+.image-con {
+    border-radius: 30px;
+    background-color: #FFFAFA;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+.logo-head{
+    display: flex;
+    flex-direction: row;
+
+}
+.img-con-l{
+    padding-left: 65px;
+   margin-bottom: 10px;
+}
+.image-limit{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.con-new-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.image-bg-con{
+   
+    padding-left: 35px;
+}
+
+.con-spend-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.spend-con {
+    display: flex;
+    flex-direction: row;
+}
+
+.con-spend {
+    background-color: red;
+    border-radius: 15px;
+    height: 15px;
+    width: 15px;
+    font-size: 1px;
+    color: red;
+    margin: 5px;
+}
+
+.con-avaiable {
+    background-color: green;
+    border-radius: 15px;
+    height: 15px;
+    width: 15px;
+    font-size: 1px;
+    color: green;
+    margin: 5px;
+}
